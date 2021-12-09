@@ -10,6 +10,7 @@ TODO: Add furry % cmd to bot
 ]] 
 
 --* Main if found message fundtion
+
 client:on("messageCreate", function(message)
     local content = message.content
     local member = message.member
