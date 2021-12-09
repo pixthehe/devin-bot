@@ -25,4 +25,4 @@ end)
 
 
 
-client:run("Bot "..io.open("./token"):read())
+client:run("Bot "..io.open("./token.haha"):read())
